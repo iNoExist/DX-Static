@@ -1,0 +1,6 @@
+# build output (build.cmd)
+bin/
+build/
+*.exe
+*.res
+*.o
