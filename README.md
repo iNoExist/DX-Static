@@ -206,3 +206,9 @@ install.cmd / uninstall.cmd
 tools/hidprobe.c       read-only HID descriptor/caps dump
 tools/refpackets.js    reference packets from DX Light's own code
 ```
+
+## Licence
+
+MIT, see [LICENSE](LICENSE). This project is not affiliated with or endorsed by
+Robobloq. "DX Light" is their product name, used here only to say what this works with.
+No DX Light code is included; `tools/refpackets.js` reads it from your own installation.
